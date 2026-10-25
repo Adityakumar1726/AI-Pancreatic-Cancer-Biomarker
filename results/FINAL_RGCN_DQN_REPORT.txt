@@ -1,0 +1,21 @@
+FINAL RGCN + DQN PANCREATIC CANCER BIOMARKER REPORT
+======================================================================
+
+DQN candidates loaded: 10
+RGCN embedding rows: 1064
+Final connected candidates ranked: 10
+Ranking weights: DQN 35%, RGCN 20%, DE 20%, FDR 10%, network 15%
+Note: The combined score is a project-defined prioritization score. Candidates require independent biological and clinical validation.
+
+TOP 10 CANDIDATES
+----------------------------------------------------------------------
+1. ENSG00000204839 | mRNA | log2FC=1.8884 | FDR=0.429063 | Degree=1 | Score=0.587144
+2. ENSG00000283839 | lncRNA | log2FC=-1.7434 | FDR=0.0484087 | Degree=1 | Score=0.449869
+3. ENSG00000122711 | mRNA | log2FC=3.0088 | FDR=0.534652 | Degree=4 | Score=0.380457
+4. ENSG00000110324 | mRNA | log2FC=-1.6603 | FDR=0.423287 | Degree=69 | Score=0.379005
+5. ENSG00000198019 | mRNA | log2FC=-1.6690 | FDR=0.0819035 | Degree=2 | Score=0.295898
+6. ENSG00000106004 | mRNA | log2FC=1.0984 | FDR=7.23234e-18 | Degree=3 | Score=0.277381
+7. ENSG00000166928 | mRNA | log2FC=-1.5737 | FDR=0.0810536 | Degree=1 | Score=0.207649
+8. ENSG00000086288 | mRNA | log2FC=-2.0009 | FDR=0.149114 | Degree=1 | Score=0.181921
+9. ENSG00000170909 | mRNA | log2FC=-1.3705 | FDR=0.494891 | Degree=2 | Score=0.174171
+10. ENSG00000155962 | mRNA | log2FC=-1.0239 | FDR=0.475839 | Degree=5 | Score=0.120539

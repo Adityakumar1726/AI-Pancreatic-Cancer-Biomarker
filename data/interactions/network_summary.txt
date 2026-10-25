@@ -1,0 +1,19 @@
+PANCREATIC CANCER RNA NETWORK SUMMARY
+=====================================
+
+mRNA nodes: 701
+lncRNA nodes: 344
+miRNA nodes: 20
+Total nodes: 1065
+
+PCC threshold: 0.8
+
+Total edges: 4301
+
+Edges by relation:
+mRNA_mRNA: 3891
+lncRNA_miRNA: 185
+miRNA_mRNA: 146
+lncRNA_lncRNA: 51
+lncRNA_mRNA: 27
+miRNA_miRNA: 1

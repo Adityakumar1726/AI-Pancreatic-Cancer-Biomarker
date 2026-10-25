@@ -1,0 +1,245 @@
+geo_accession,title,characteristics,tissue_type,matrix_sample,matched
+GSM5570968,1_E5-Tc8_T,tissue: Tumor; grading: G2; Stage: IIA; resection margin: R1; survival months: 51.1; survival status: 1,Tumor,1_E5-Tc8_T.CEL,True
+GSM5570969,1_E74_Tp4,tissue: Tumor; grading: G2; Stage: IA; resection margin: R1; survival months: 56.02185641; survival status: 0,Tumor,1_E74_Tp4.CEL,True
+GSM5570970,10_E225_Tp1,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 13.90683407; survival status: 1,Tumor,10_E225_Tp1.CEL,True
+GSM5570971,10_E33-Tn13_N,tissue: adjacent non-tumor; grading: G2; Stage: III; resection margin: R0; survival months: ?; survival status: ?,adjacent non-tumor,10_E33-Tn13_N.CEL,True
+GSM5570972,11_E29_Tp1,tissue: Tumor; grading: G3; Stage: III; resection margin: R2; survival months: 3.945201156; survival status: 1,Tumor,11_E29_Tp1.CEL,True
+GSM5570973,11_E41-Tc7_T,tissue: Tumor; grading: G2; Stage: III; resection margin: R1; survival months: 35.9; survival status: 1,Tumor,11_E41-Tc7_T.CEL,True
+GSM5570974,12_E41-Tn13_N,tissue: adjacent non-tumor; grading: G2; Stage: III; resection margin: R1; survival months: 35.9; survival status: 1,adjacent non-tumor,12_E41-Tn13_N.CEL,True
+GSM5570975,12_E60_Tp1,tissue: Tumor; grading: G2; Stage: IB; resection margin: R0; survival months: 4.668488035; survival status: 1,Tumor,12_E60_Tp1.CEL,True
+GSM5570976,13_E42-Tc10_T,tissue: Tumor; grading: G2; Stage: III; resection margin: R1; survival months: 2.4; survival status: 1,Tumor,13_E42-Tc10_T.CEL,True
+GSM5570977,14_E202_Tp1,tissue: Tumor; grading: G2; Stage: IIA; resection margin: R0; survival months: 8.35067578; survival status: 1,Tumor,14_E202_Tp1.CEL,True
+GSM5570978,14_E42-Tn14_N,tissue: adjacent non-tumor; grading: G2; Stage: III; resection margin: R1; survival months: 2.4; survival status: 1,adjacent non-tumor,14_E42-Tn14_N.CEL,True
+GSM5570979,15_E260_Tp1,tissue: Tumor; grading: G2; Stage: IIA; resection margin: R1; survival months: 2.465750722; survival status: 1,Tumor,15_E260_Tp1.CEL,True
+GSM5570980,15_E45-Tc7_T,tissue: Tumor; grading: G2; Stage: III; resection margin: R2; survival months: ?; survival status: ?,Tumor,15_E45-Tc7_T.CEL,True
+GSM5570981,16_E262_Tp1,tissue: Tumor; grading: G?; Stage: ?; resection margin: ?; survival months: NA; survival status: ?,Tumor,16_E262_Tp1.CEL,True
+GSM5570982,16_E45-Tn14_N,tissue: adjacent non-tumor; grading: G2; Stage: III; resection margin: R2; survival months: ?; survival status: ?,adjacent non-tumor,16_E45-Tn14_N.CEL,True
+GSM5570983,17_E251_Tp1,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 24.92052064; survival status: 0,Tumor,17_E251_Tp1.CEL,True
+GSM5570984,17_E48-Tc7_T,tissue: Tumor; grading: G2; Stage: III; resection margin: R0; survival months: ?; survival status: ?,Tumor,17_E48-Tc7_T.CEL,True
+GSM5570985,18_E251_Tn7,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,18_E251_Tn7.CEL,True
+GSM5570986,18_E48-Tn13_N,tissue: adjacent non-tumor; grading: G2; Stage: III; resection margin: R0; survival months: ?; survival status: ?,adjacent non-tumor,18_E48-Tn13_N.CEL,True
+GSM5570987,19_E253_Tp1,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 5.161638179; survival status: 1,Tumor,19_E253_Tp1.CEL,True
+GSM5570988,19_E52-Tc7_T,tissue: Tumor; grading: G3; Stage: IVA; resection margin: R1; survival months: 19.5; survival status: 1,Tumor,19_E52-Tc7_T.CEL,True
+GSM5570989,2_E5-Tn14_N,tissue: adjacent non-tumor; grading: G2; Stage: IIA; resection margin: R1; survival months: 51.1; survival status: 1,adjacent non-tumor,2_E5-Tn14_N.CEL,True
+GSM5570990,2_E74_Tn15,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,2_E74_Tn15.CEL,True
+GSM5570991,20_E253_Tn7,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,20_E253_Tn7.CEL,True
+GSM5570992,20_E52-Tn15_N,tissue: adjacent non-tumor; grading: G3; Stage: IVA; resection margin: R1; survival months: 19.5; survival status: 1,adjacent non-tumor,20_E52-Tn15_N.CEL,True
+GSM5570993,21_E164_Tp1,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 19.72600578; survival status: 1,Tumor,21_E164_Tp1.CEL,True
+GSM5570994,21_E58-Tc7_T,tissue: Tumor; grading: G3; Stage: III; resection margin: R1; survival months: 12.6; survival status: 1,Tumor,21_E58-Tc7_T.CEL,True
+GSM5570995,22_E164_Tn7_R,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,22_E164_Tn7_R.CEL,True
+GSM5570996,22_E58-Tn13_N,tissue: adjacent non-tumor; grading: G3; Stage: III; resection margin: R1; survival months: 12.6; survival status: 1,adjacent non-tumor,22_E58-Tn13_N.CEL,True
+GSM5570997,23_E193_Tp2_R,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 8.35067578; survival status: 1,Tumor,23_E193_Tp2_R.CEL,True
+GSM5570998,23_E64-Tp3_T,tissue: Tumor; grading: G2; Stage: IVA; resection margin: R1; survival months: 16; survival status: 1,Tumor,23_E64-Tp3_T.CEL,True
+GSM5570999,24_E64-Tn16_N,tissue: adjacent non-tumor; grading: G2; Stage: IVA; resection margin: R1; survival months: 16; survival status: 1,adjacent non-tumor,24_E64-Tn16_N.CEL,True
+GSM5571000,25_E194_Tp1,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 8.876702601; survival status: 1,Tumor,25_E194_Tp1.CEL,True
+GSM5571001,25_E73-Tc7_T,tissue: Tumor; grading: G2; Stage: III; resection margin: R0; survival months: 40.9; survival status: 1,Tumor,25_E73-Tc7_T.CEL,True
+GSM5571002,26_E194_Tn7_R,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,26_E194_Tn7_R.CEL,True
+GSM5571003,26_E73-Tn13_N,tissue: adjacent non-tumor; grading: G2; Stage: III; resection margin: R0; survival months: 40.9; survival status: 1,adjacent non-tumor,26_E73-Tn13_N.CEL,True
+GSM5571004,27_E172_Tp1,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 30.77256902; survival status: 1,Tumor,27_E172_Tp1.CEL,True
+GSM5571005,27_E82-Tp1_T,tissue: Tumor; grading: G3; Stage: IVB; resection margin: R1; survival months: 2.8; survival status: 1,Tumor,27_E82-Tp1_T.CEL,True
+GSM5571006,28_E197_Tp2,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 34.29037338; survival status: 0,Tumor,28_E197_Tp2.CEL,True
+GSM5571007,28_E82-Tn13_N,tissue: adjacent non-tumor; grading: G3; Stage: IVB; resection margin: R1; survival months: 2.8; survival status: 1,adjacent non-tumor,28_E82-Tn13_N.CEL,True
+GSM5571008,29_E221_Tp1,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 12.6246437; survival status: 1,Tumor,29_E221_Tp1.CEL,True
+GSM5571009,29_E86-Tc8_T,tissue: Tumor; grading: G3; Stage: III; resection margin: R1; survival months: 11.6; survival status: 1,Tumor,29_E86-Tc8_T.CEL,True
+GSM5571010,3_E12-Tp2_T,tissue: Tumor; grading: G3; Stage: III; resection margin: R0; survival months: 6.9; survival status: 1,Tumor,3_E12-Tp2_T.CEL,True
+GSM5571011,3_E151_Tp2,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 15.05751775; survival status: 1,Tumor,3_E151_Tp2.CEL,True
+GSM5571012,30_E223_Tp1_R,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 10.6849198; survival status: 1,Tumor,30_E223_Tp1_R.CEL,True
+GSM5571013,30_E86-Tn13_N,tissue: adjacent non-tumor; grading: G3; Stage: III; resection margin: R1; survival months: 11.6; survival status: 1,adjacent non-tumor,30_E86-Tn13_N.CEL,True
+GSM5571014,31_E157_Tp1_R,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 35.34242702; survival status: 0,Tumor,31_E157_Tp1_R.CEL,True
+GSM5571015,31_E88-Tc7_T,tissue: Tumor; grading: G3; Stage: III; resection margin: R1; survival months: 24.7; survival status: 1,Tumor,31_E88-Tc7_T.CEL,True
+GSM5571016,32_E169_Tp1,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 25.2492874; survival status: 1,Tumor,32_E169_Tp1.CEL,True
+GSM5571017,32_E88-Tn13_N,tissue: adjacent non-tumor; grading: G3; Stage: III; resection margin: R1; survival months: 24.7; survival status: 1,adjacent non-tumor,32_E88-Tn13_N.CEL,True
+GSM5571018,33_E174_Tp1,tissue: Tumor; grading: G4; Stage: IIB; resection margin: R1; survival months: 1.709587168; survival status: 1,Tumor,33_E174_Tp1.CEL,True
+GSM5571019,33_E94-Tc7_T,tissue: Tumor; grading: G2; Stage: IIA; resection margin: R0; survival months: 40; survival status: 0,Tumor,33_E94-Tc7_T.CEL,True
+GSM5571020,34_E419_Tp1,tissue: Tumor; grading: G2; Stage: IIA; resection margin: R1; survival months: 7.19999211; survival status: 1,Tumor,34_E419_Tp1.CEL,True
+GSM5571021,34_E94-Tn13_N,tissue: adjacent non-tumor; grading: G2; Stage: IIA; resection margin: R0; survival months: 40; survival status: 0,adjacent non-tumor,34_E94-Tn13_N.CEL,True
+GSM5571022,35_E109Tp1_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 1.2; survival status: 1,Tumor,35_E109Tp1_T.CEL,True
+GSM5571023,35_E440_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 1.643833815; survival status: 1,Tumor,35_E440_T.CEL,True
+GSM5571024,36_E109-Tn13_N,tissue: adjacent non-tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 1.2; survival status: 1,adjacent non-tumor,36_E109-Tn13_N.CEL,True
+GSM5571025,36_E440_N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,36_E440_N.CEL,True
+GSM5571026,37_E119-Tc7_T,tissue: Tumor; grading: G2; Stage: IIA; resection margin: R0; survival months: 13.2; survival status: 1,Tumor,37_E119-Tc7_T.CEL,True
+GSM5571027,37_E445_T,tissue: Tumor; grading: G2; Stage: III; resection margin: R1; survival months: 14.03834078; survival status: 1,Tumor,37_E445_T.CEL,True
+GSM5571028,38_E119-Tn13_N,tissue: adjacent non-tumor; grading: G2; Stage: IIA; resection margin: R0; survival months: 13.2; survival status: 1,adjacent non-tumor,38_E119-Tn13_N.CEL,True
+GSM5571029,38_E445_N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,38_E445_N.CEL,True
+GSM5571030,39_E120-Tc7_T,tissue: Tumor; grading: G3; Stage: III; resection margin: R1; survival months: 23.2; survival status: 1,Tumor,39_E120-Tc7_T.CEL,True
+GSM5571031,39_E465_T,tissue: Tumor; grading: G2; Stage: IIA; resection margin: R1; survival months: 10.8164265; survival status: 0,Tumor,39_E465_T.CEL,True
+GSM5571032,4_E12-Tn15_N,tissue: adjacent non-tumor; grading: G3; Stage: III; resection margin: R0; survival months: 6.9; survival status: 1,adjacent non-tumor,4_E12-Tn15_N.CEL,True
+GSM5571033,4_E151_Tn8,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,4_E151_Tn8.CEL,True
+GSM5571034,40_E120-Tn13_N,tissue: adjacent non-tumor; grading: G3; Stage: III; resection margin: R1; survival months: 23.2; survival status: 1,adjacent non-tumor,40_E120-Tn13_N.CEL,True
+GSM5571035,40_E465_N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,40_E465_N.CEL,True
+GSM5571036,41_E123-Tc7_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 10.8; survival status: 1,Tumor,41_E123-Tc7_T.CEL,True
+GSM5571037,41_E365_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 22.0602498; survival status: 0,Tumor,41_E365_T.CEL,True
+GSM5571038,42_E123-Tn13_N,tissue: adjacent non-tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 10.8; survival status: 1,adjacent non-tumor,42_E123-Tn13_N.CEL,True
+GSM5571039,42_E365_N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,42_E365_N.CEL,True
+GSM5571040,43_E130-Tp1_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 29; survival status: 1,Tumor,43_E130-Tp1_T.CEL,True
+GSM5571041,44_E130-Tn13_N,tissue: adjacent non-tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 29; survival status: 1,adjacent non-tumor,44_E130-Tn13_N.CEL,True
+GSM5571042,44_E368_N_R,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,44_E368_N_R.CEL,True
+GSM5571043,45_E133-Tp4_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 27.7; survival status: 1,Tumor,45_E133-Tp4_T.CEL,True
+GSM5571044,45_E370_T,tissue: Tumor; grading: G3; Stage: III; resection margin: R1; survival months: 10.65204312; survival status: 0,Tumor,45_E370_T.CEL,True
+GSM5571045,46_E133-Tn15_N,tissue: adjacent non-tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 27.7; survival status: 1,adjacent non-tumor,46_E133-Tn15_N.CEL,True
+GSM5571046,46_E370_N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,46_E370_N.CEL,True
+GSM5571047,47_E136-Tp1_T,tissue: Tumor; grading: G2; Stage: IIA; resection margin: R0; survival months: 27.6; survival status: 0,Tumor,47_E136-Tp1_T.CEL,True
+GSM5571048,47_E482_T,tissue: Tumor; grading: G2; Stage: III; resection margin: R1; survival months: 9.271222716; survival status: 0,Tumor,47_E482_T.CEL,True
+GSM5571049,48_E136-Tn13_N,tissue: adjacent non-tumor; grading: G2; Stage: IIA; resection margin: R0; survival months: 27.6; survival status: 0,adjacent non-tumor,48_E136-Tn13_N.CEL,True
+GSM5571050,48_E482_N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,48_E482_N.CEL,True
+GSM5571051,49_E138-Tp1_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 13.8; survival status: 1,Tumor,49_E138-Tp1_T.CEL,True
+GSM5571052,49_E488_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 8.35067578; survival status: 0,Tumor,49_E488_T.CEL,True
+GSM5571053,5_E205_Tp3,tissue: Tumor; grading: G1; Stage: IIB; resection margin: R1; survival months: 3.189037601; survival status: 1,Tumor,5_E205_Tp3.CEL,True
+GSM5571054,5_E21-Tc8_T,tissue: Tumor; grading: G3; Stage: IIA; resection margin: R0; survival months: 2.7; survival status: 1,Tumor,5_E21-Tc8_T.CEL,True
+GSM5571055,50_E138-Tn14_N,tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 13.8; survival status: 1,adjacent non-tumor,50_E138-Tn14_N.CEL,True
+GSM5571056,50_E488_N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,50_E488_N.CEL,True
+GSM5571057,51_E139-Tp1_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 6.8; survival status: 1,Tumor,51_E139-Tp1_T.CEL,True
+GSM5571058,51_E388_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: NA; survival status: ?,Tumor,51_E388_T.CEL,True
+GSM5571059,52_E139-Tn13_N,tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 6.8; survival status: 1,adjacent non-tumor,52_E139-Tn13_N.CEL,True
+GSM5571060,52_E388_N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,52_E388_N.CEL,True
+GSM5571061,53_E152-Tc5_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 28.2; survival status: 0,Tumor,53_E152-Tc5_T.CEL,True
+GSM5571062,53_E394_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 2.827394162; survival status: 1,Tumor,53_E394_T.CEL,True
+GSM5571063,54_E152-Tn7_N,tissue: adjacent non-tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 28.2; survival status: 0,adjacent non-tumor,54_E152-Tn7_N.CEL,True
+GSM5571064,54_E394_N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,54_E394_N.CEL,True
+GSM5571065,55_E162-Tp1_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 9.8; survival status: 1,Tumor,55_E162-Tp1_T.CEL,True
+GSM5571066,55_E400_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 14.20272416; survival status: 1,Tumor,55_E400_T.CEL,True
+GSM5571067,56_E162-Tn9_N,tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 9.8; survival status: 1,adjacent non-tumor,56_E162-Tn9_N.CEL,True
+GSM5571068,56_E400_N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,56_E400_N.CEL,True
+GSM5571069,57_E165-Tp1_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 23.6; survival status: 0,Tumor,57_E165-Tp1_T.CEL,True
+GSM5571070,57_E403_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R2; survival months: 11.01368656; survival status: 1,Tumor,57_E403_T.CEL,True
+GSM5571071,58_E165-Tn7_N,tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 23.6; survival status: 0,adjacent non-tumor,58_E165-Tn7_N.CEL,True
+GSM5571072,58_E403_N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,58_E403_N.CEL,True
+GSM5571073,59_E178-Tp1_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 7.7; survival status: 1,Tumor,59_E178-Tp1_T.CEL,True
+GSM5571074,59_E405_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 1.183560347; survival status: 1,Tumor,59_E405_T.CEL,True
+GSM5571075,6_E205_Tn7,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,6_E205_Tn7.CEL,True
+GSM5571076,6_E21-Tn16_N,tissue: adjacent non-tumor; grading: G3; Stage: IIA; resection margin: R0; survival months: 2.7; survival status: 1,adjacent non-tumor,6_E21-Tn16_N.CEL,True
+GSM5571077,60_E178-Tn7_N,tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 7.7; survival status: 1,adjacent non-tumor,60_E178-Tn7_N.CEL,True
+GSM5571078,60_E405_N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,60_E405_N.CEL,True
+GSM5571079,61_E179-Tp1_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 21.8; survival status: 0,Tumor,61_E179-Tp1_T.CEL,True
+GSM5571080,61_E409_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 18.18080199; survival status: 0,Tumor,61_E409_T.CEL,True
+GSM5571081,62_E179-Tn7_N,tissue: adjacent non-tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 21.8; survival status: 0,adjacent non-tumor,62_E179-Tn7_N.CEL,True
+GSM5571082,62_E409_N_R,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,62_E409_N_R.CEL,True
+GSM5571083,63_E181-Tp1_T,tissue: Tumor; grading: G4; Stage: IIA; resection margin: R1; survival months: 21.2; survival status: 0,Tumor,63_E181-Tp1_T.CEL,True
+GSM5571084,63_E415_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 17.45751512; survival status: 0,Tumor,63_E415_T.CEL,True
+GSM5571085,64_E181-Tn8_N,tissue: adjacent non-tumor; grading: G4; Stage: IIA; resection margin: R1; survival months: 21.2; survival status: 0,adjacent non-tumor,64_E181-Tn8_N.CEL,True
+GSM5571086,64_E415_N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,64_E415_N.CEL,True
+GSM5571087,65_E182-Tp2_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 21.1; survival status: 0,Tumor,65_E182-Tp2_T.CEL,True
+GSM5571088,65_E499_T,tissue: Tumor; grading: G2; Stage: IB; resection margin: R1; survival months: 7.758895607; survival status: 0,Tumor,65_E499_T.CEL,True
+GSM5571089,66_E182-Tn7_N,tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 21.1; survival status: 0,adjacent non-tumor,66_E182-Tn7_N.CEL,True
+GSM5571090,66_E499_N_R,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,66_E499_N_R.CEL,True
+GSM5571091,67_E186-Tp2_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 8.9; survival status: 1,Tumor,67_E186-Tp2_T.CEL,True
+GSM5571092,67_E501_T,tissue: Tumor; grading: G3; Stage: IIA; resection margin: R1; survival months: 1.643833815; survival status: 0,Tumor,67_E501_T.CEL,True
+GSM5571093,68_E186-Tn7_N,tissue: adjacent non-tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 8.9; survival status: 1,adjacent non-tumor,68_E186-Tn7_N.CEL,True
+GSM5571094,68_E501_N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,68_E501_N.CEL,True
+GSM5571095,69_E203-Tp1_T,tissue: Tumor; grading: G3; Stage: IV; resection margin: R0; survival months: 17.3; survival status: 0,Tumor,69_E203-Tp1_T.CEL,True
+GSM5571096,69_E401_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 14.33423087; survival status: 1,Tumor,69_E401_T.CEL,True
+GSM5571097,7_E122_Tn8,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 33.27119642; survival status: 1,Tumor,7_E122_Tn8.CEL,True
+GSM5571098,7_E28-Tp1_T,tissue: Tumor; grading: G2; Stage: III; resection margin: R0; survival months: 41.6; survival status: 1,Tumor,7_E28-Tp1_T.CEL,True
+GSM5571099,70_E203-Tn7_N,tissue: adjacent non-tumor; grading: G3; Stage: IV; resection margin: R0; survival months: 17.3; survival status: 0,adjacent non-tumor,70_E203-Tn7_N.CEL,True
+GSM5571100,70_E420_T_2,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 7.923278988; survival status: 1,Tumor,70_E420_T_2.CEL,True
+GSM5571101,71_E208-Tp1_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 6.4; survival status: 1,Tumor,71_E208-Tp1_T.CEL,True
+GSM5571102,71_E421_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 0.756163555; survival status: 1,Tumor,71_E421_T.CEL,True
+GSM5571103,72_E208-Tn8_N,tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 6.4; survival status: 1,adjacent non-tumor,72_E208-Tn8_N.CEL,True
+GSM5571104,73_E209-Tp2_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 16.4; survival status: 0,Tumor,73_E209-Tp2_T.CEL,True
+GSM5571105,74_E209-Tn8_N,tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 16.4; survival status: 0,adjacent non-tumor,74_E209-Tn8_N.CEL,True
+GSM5571106,75_E218-Tp1_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 4.6; survival status: 1,Tumor,75_E218-Tp1_T.CEL,True
+GSM5571107,76_E218-Tn7_N,tissue: adjacent non-tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 4.6; survival status: 1,adjacent non-tumor,76_E218-Tn7_N.CEL,True
+GSM5571108,77_E245-Tp1_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 10.6; survival status: 0,Tumor,77_E245-Tp1_T.CEL,True
+GSM5571109,78_E245-Tn7_N,tissue: adjacent non-tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 10.6; survival status: 0,adjacent non-tumor,78_E245-Tn7_N.CEL,True
+GSM5571110,79_E246-Tp1_T,tissue: Tumor; grading: G3; Stage: IB; resection margin: R1; survival months: 4.2; survival status: 1,Tumor,79_E246-Tp1_T.CEL,True
+GSM5571111,8_E122_Tn13,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,8_E122_Tn13.CEL,True
+GSM5571112,8_E28-Tn16_N,tissue: adjacent non-tumor; grading: G2; Stage: III; resection margin: R0; survival months: 41.6; survival status: 1,adjacent non-tumor,8_E28-Tn16_N.CEL,True
+GSM5571113,80_E246-Tn7_N,tissue: adjacent non-tumor; grading: G3; Stage: IB; resection margin: R1; survival months: 4.2; survival status: 1,adjacent non-tumor,80_E246-Tn7_N.CEL,True
+GSM5571114,81_E249-Tp1_T,tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 10.3; survival status: 1,Tumor,81_E249-Tp1_T.CEL,True
+GSM5571115,82_E249-Tn7_N,tissue: adjacent non-tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 10.3; survival status: 1,adjacent non-tumor,82_E249-Tn7_N.CEL,True
+GSM5571116,83_E250-Tp1_T,tissue: Tumor; grading: G2; Stage: IV; resection margin: R2; survival months: 9.7; survival status: 0,Tumor,83_E250-Tp1_T.CEL,True
+GSM5571117,84_E250-Tn7_N,tissue: adjacent non-tumor; grading: G2; Stage: IV; resection margin: R2; survival months: 9.7; survival status: 0,adjacent non-tumor,84_E250-Tn7_N.CEL,True
+GSM5571118,85_E220-Tp1_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 14.9; survival status: 1,Tumor,85_E220-Tp1_T.CEL,True
+GSM5571119,86_E220-Tn7_N,tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 14.9; survival status: 1,adjacent non-tumor,86_E220-Tn7_N.CEL,True
+GSM5571120,87_E229-Tp1_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 4.5; survival status: 1,Tumor,87_E229-Tp1_T.CEL,True
+GSM5571121,88_E229-Tn7_N,tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 4.5; survival status: 1,adjacent non-tumor,88_E229-Tn7_N.CEL,True
+GSM5571122,89_E234-Tp1_T,tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 12.9; survival status: 1,Tumor,89_E234-Tp1_T.CEL,True
+GSM5571123,9_E33-Tc7_T,tissue: Tumor; grading: G2; Stage: III; resection margin: R0; survival months: ?; survival status: ?,Tumor,9_E33-Tc7_T.CEL,True
+GSM5571124,90_E234-Tn7_N,tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 12.9; survival status: 1,adjacent non-tumor,90_E234-Tn7_N.CEL,True
+GSM5571125,E387T,tissue: Tumor; grading: 3; Stage: IIB; resection margin: 1; survival months: 15.63333333; survival status: 1,Tumor,E387T.CEL,True
+GSM5571126,E480N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E480N.CEL,True
+GSM5571127,E480T,tissue: Tumor; grading: 2; Stage: IIB; resection margin: R0; survival months: 27.6; survival status: 0,Tumor,E480T.CEL,True
+GSM5571128,E494T,tissue: Tumor; grading: 2; Stage: IIB; resection margin: R0; survival months: 26.86666667; survival status: 0,Tumor,E494T.CEL,True
+GSM5571129,E504N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E504N.CEL,True
+GSM5571130,E504T,tissue: Tumor; grading: 3-Feb; Stage: IIA; resection margin: R0; survival months: 24.96666667; survival status: 0,Tumor,E504T.CEL,True
+GSM5571131,E505N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E505N.CEL,True
+GSM5571132,E505T,tissue: Tumor; grading: 3-Feb; Stage: IIB; resection margin: R1; survival months: 4.9; survival status: 1,Tumor,E505T.CEL,True
+GSM5571133,E520T,tissue: Tumor; grading: 2; Stage: IIB; resection margin: R1; survival months: 9.5; survival status: 1,Tumor,E520T.CEL,True
+GSM5571134,E523N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E523N.CEL,True
+GSM5571135,E523T,tissue: Tumor; grading: 3; Stage: IIB; resection margin: R0; survival months: 20.5; survival status: 0,Tumor,E523T.CEL,True
+GSM5571136,E527N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E527N.CEL,True
+GSM5571137,E527T,tissue: Tumor; grading: 2; Stage: IIA; resection margin: R0; survival months: 14; survival status: 1,Tumor,E527T.CEL,True
+GSM5571138,E530N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E530N.CEL,True
+GSM5571139,E530T,tissue: Tumor; grading: 2; Stage: IIA; resection margin: R0; survival months: 9.633333333; survival status: 1,Tumor,E530T.CEL,True
+GSM5571140,E532T,tissue: Tumor; grading: 2; Stage: IIA; resection margin: R0; survival months: 2.066666667; survival status: 1,Tumor,E532T.CEL,True
+GSM5571141,E577N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E577N.CEL,True
+GSM5571142,E577T,tissue: Tumor; grading: 3-Feb; Stage: IIB; resection margin: R0; survival months: 1.466666667; survival status: 1,Tumor,E577T.CEL,True
+GSM5571143,E580N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E580N.CEL,True
+GSM5571144,E580T,tissue: Tumor; grading: 2; Stage: IIB; resection margin: R0; survival months: 11.93333333; survival status: 1,Tumor,E580T.CEL,True
+GSM5571145,E593T,tissue: Tumor; grading: 3-Feb; Stage: IIB; resection margin: R1; survival months: 8.866666667; survival status: 0,Tumor,E593T.CEL,True
+GSM5571146,E599T,tissue: Tumor; grading: 3-Feb; Stage: IIB; resection margin: R1; survival months: 13.83333333; survival status: 0,Tumor,E599T.CEL,True
+GSM5571147,E604N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E604N.CEL,True
+GSM5571148,E604T,tissue: Tumor; grading: 3-Feb; Stage: IIB; resection margin: R0; survival months: 14.9; survival status: 0,Tumor,E604T.CEL,True
+GSM5571149,E623N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E623N.CEL,True
+GSM5571150,E623T,tissue: Tumor; grading: 2; Stage: IIB; resection margin: R0; survival months: 9.733333333; survival status: 0,Tumor,E623T.CEL,True
+GSM5571151,E626T,tissue: Tumor; grading: 2; Stage: IIB; resection margin: R1; survival months: 0.7; survival status: 0,Tumor,E626T.CEL,True
+GSM5571152,E636N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E636N.CEL,True
+GSM5571153,E636T,tissue: Tumor; grading: 2; Stage: IIB; resection margin: R0; survival months: 6.5; survival status: 0,Tumor,E636T.CEL,True
+GSM5571154,E639T,tissue: Tumor; grading: 2; Stage: IIB; resection margin: R0; survival months: 6.366666667; survival status: 0,Tumor,E639T.CEL,True
+GSM5571155,E655T,tissue: Tumor; grading: 3; Stage: III; resection margin: R0; survival months: 5.6; survival status: 0,Tumor,E655T.CEL,True
+GSM5571156,E656N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E656N.CEL,True
+GSM5571157,E656T,tissue: Tumor; grading: 2; Stage: IIA; resection margin: R0; survival months: 2.866666667; survival status: 0,Tumor,E656T.CEL,True
+GSM5571158,E671N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E671N.CEL,True
+GSM5571159,E671T,tissue: Tumor; grading: 2; Stage: IIB; resection margin: R1; survival months: 3.166666667; survival status: 0,Tumor,E671T.CEL,True
+GSM5571160,E674N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E674N.CEL,True
+GSM5571161,E674T,tissue: Tumor; grading: 2; Stage: IIB; resection margin: R0; survival months: 4.533333333; survival status: 0,Tumor,E674T.CEL,True
+GSM5571162,E739T,tissue: Tumor; grading: 3; Stage: IIB; resection margin: R1; survival months: 8.733333333; survival status: 0,Tumor,E739T.CEL,True
+GSM5571163,E762T,tissue: Tumor; grading: 2; Stage: IIA; resection margin: R1; survival months: 0.8; survival status: 0,Tumor,E762T.CEL,True
+GSM5571164,E770N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E770N.CEL,True
+GSM5571165,E770T,tissue: Tumor; grading: 2; Stage: IIB; resection margin: R1; survival months: 3.066666667; survival status: 0,Tumor,E770T.CEL,True
+GSM5571166,E780N,tissue: adjacent non-tumor; survival status: ?,adjacent non-tumor,E780N.CEL,True
+GSM5571167,E780T,tissue: Tumor; grading: 2; Stage: IB; resection margin: R1; survival months: 0.4; survival status: 0,Tumor,E780T.CEL,True
+GSM5571168,E99Tp1,tissue: Tumor; grading: 2; Stage: III; resection margin: R1; survival months: 14.9; survival status: 1,Tumor,E99Tp1.CEL,True
+GSM5571169,Hussain_01_3759_(HuGene-1_0-st-v1),tissue: Normal pancreas; grading: ?; Stage: ?; resection margin: ?; survival months: ?; survival status: ?,Normal pancreas,Hussain_01_3759_(HuGene-1_0-st-v1).CEL,True
+GSM5571170,Hussain_02_6376_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G2; Stage: IV; resection margin: R1; survival months: ?; survival status: ?,adjacent non-tumor,Hussain_02_6376_(HuGene-1_0-st-v1).CEL,True
+GSM5571171,Hussain_04_6483_(HuGene-1_0-st-v1),tissue: Normal pancreas; grading: ?; Stage: ?; resection margin: ?; survival months: ?; survival status: ?,Normal pancreas,Hussain_04_6483_(HuGene-1_0-st-v1).CEL,True
+GSM5571172,Hussain_05_9233_(HuGene-1_0-st-v1),tissue: Tumor; grading: G2; Stage: IB; resection margin: R0; survival months: 9.5; survival status: 1,Tumor,Hussain_05_9233_(HuGene-1_0-st-v1).CEL,True
+GSM5571173,Hussain_08_9727_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 6.3; survival status: 1,adjacent non-tumor,Hussain_08_9727_(HuGene-1_0-st-v1).CEL,True
+GSM5571174,Hussain_09_9728_(HuGene-1_0-st-v1),tissue: Tumor; grading: G3; Stage: IIB; resection margin: R0; survival months: 6.3; survival status: 1,Tumor,Hussain_09_9728_(HuGene-1_0-st-v1).CEL,True
+GSM5571175,Hussain_10_13693_(HuGene-1_0-st-v1),tissue: Normal pancreas; grading: ?; Stage: ?; resection margin: ?; survival months: ?; survival status: ?,Normal pancreas,Hussain_10_13693_(HuGene-1_0-st-v1).CEL,True
+GSM5571176,Hussain_11_14694_(HuGene-1_0-st-v1),tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 0.9; survival status: 1,Tumor,Hussain_11_14694_(HuGene-1_0-st-v1).CEL,True
+GSM5571177,Hussain_12_17529_(HuGene-1_0-st-v1),tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 5.9; survival status: 1,Tumor,Hussain_12_17529_(HuGene-1_0-st-v1).CEL,True
+GSM5571178,Hussain_13_17530_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 9.8; survival status: ?,adjacent non-tumor,Hussain_13_17530_(HuGene-1_0-st-v1).CEL,True
+GSM5571179,Hussain_14_17531_(HuGene-1_0-st-v1),tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 9.8; survival status: 1,Tumor,Hussain_14_17531_(HuGene-1_0-st-v1).CEL,True
+GSM5571180,Hussain_15_17797_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 5.3; survival status: ?,adjacent non-tumor,Hussain_15_17797_(HuGene-1_0-st-v1).CEL,True
+GSM5571181,Hussain_16_17798_(HuGene-1_0-st-v1),tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 5.3; survival status: 1,Tumor,Hussain_16_17798_(HuGene-1_0-st-v1).CEL,True
+GSM5571182,Hussain_17_18590_(HuGene-1_0-st-v1),tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 21.5; survival status: 1,Tumor,Hussain_17_18590_(HuGene-1_0-st-v1).CEL,True
+GSM5571183,Hussain_20_19926_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G3; Stage: IB; resection margin: R0; survival months: 14.2; survival status: 1,adjacent non-tumor,Hussain_20_19926_(HuGene-1_0-st-v1).CEL,True
+GSM5571184,Hussain_21_19927_(HuGene-1_0-st-v1),tissue: Tumor; grading: G3; Stage: IB; resection margin: R0; survival months: 14.2; survival status: 1,Tumor,Hussain_21_19927_(HuGene-1_0-st-v1).CEL,True
+GSM5571185,Hussain_24_22505_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G3; Stage: IIA; resection margin: R0; survival months: 32; survival status: 1,adjacent non-tumor,Hussain_24_22505_(HuGene-1_0-st-v1).CEL,True
+GSM5571186,Hussain_25_22506_(HuGene-1_0-st-v1),tissue: Tumor; grading: G3; Stage: IIA; resection margin: R0; survival months: 32; survival status: 1,Tumor,Hussain_25_22506_(HuGene-1_0-st-v1).CEL,True
+GSM5571187,Hussain_28_26172_(HuGene-1_0-st-v1),tissue: Tumor; grading: G2; Stage: III; resection margin: R1; survival months: 22.9; survival status: 1,Tumor,Hussain_28_26172_(HuGene-1_0-st-v1).CEL,True
+GSM5571188,Hussain_29_26171_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G2; Stage: III; resection margin: R1; survival months: 22.9; survival status: 1,adjacent non-tumor,Hussain_29_26171_(HuGene-1_0-st-v1).CEL,True
+GSM5571189,Hussain_30_26576_(HuGene-1_0-st-v1),tissue: Tumor; grading: G3; Stage: IIA; resection margin: R1; survival months: 45.9; survival status: 1,Tumor,Hussain_30_26576_(HuGene-1_0-st-v1).CEL,True
+GSM5571190,Hussain_31_27775_(HuGene-1_0-st-v1),tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 21.9; survival status: 1,Tumor,Hussain_31_27775_(HuGene-1_0-st-v1).CEL,True
+GSM5571191,Hussain_32_27880_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 42; survival status: 0,adjacent non-tumor,Hussain_32_27880_(HuGene-1_0-st-v1).CEL,True
+GSM5571192,Hussain_33_27881_(HuGene-1_0-st-v1),tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 42; survival status: 0,Tumor,Hussain_33_27881_(HuGene-1_0-st-v1).CEL,True
+GSM5571193,Hussain_36_29102_(HuGene-1_0-st-v1),tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 38.3; survival status: 0,Tumor,Hussain_36_29102_(HuGene-1_0-st-v1).CEL,True
+GSM5571194,Hussain_37_29163_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G3; Stage: IIA; resection margin: R1; survival months: 13.7; survival status: 1,adjacent non-tumor,Hussain_37_29163_(HuGene-1_0-st-v1).CEL,True
+GSM5571195,Hussain_38_29164_(HuGene-1_0-st-v1),tissue: Tumor; grading: G3; Stage: IIA; resection margin: R1; survival months: 13.7; survival status: 1,Tumor,Hussain_38_29164_(HuGene-1_0-st-v1).CEL,True
+GSM5571196,Hussain_39_29261_(HuGene-1_0-st-v1),tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 10.9; survival status: 1,Tumor,Hussain_39_29261_(HuGene-1_0-st-v1).CEL,True
+GSM5571197,Hussain_40_29818_(HuGene-1_0-st-v1),tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 21.3; survival status: 1,Tumor,Hussain_40_29818_(HuGene-1_0-st-v1).CEL,True
+GSM5571198,Hussain_41_29819_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 21.3; survival status: 1,adjacent non-tumor,Hussain_41_29819_(HuGene-1_0-st-v1).CEL,True
+GSM5571199,Hussain_42_29826_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 9.3; survival status: 1,adjacent non-tumor,Hussain_42_29826_(HuGene-1_0-st-v1).CEL,True
+GSM5571200,Hussain_43_29827_(HuGene-1_0-st-v1),tissue: Tumor; grading: G2; Stage: IIB; resection margin: R1; survival months: 9.3; survival status: 1,Tumor,Hussain_43_29827_(HuGene-1_0-st-v1).CEL,True
+GSM5571201,Hussain_44_31262_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 19.9; survival status: 1,adjacent non-tumor,Hussain_44_31262_(HuGene-1_0-st-v1).CEL,True
+GSM5571202,Hussain_45_31263_(HuGene-1_0-st-v1),tissue: Tumor; grading: G3; Stage: IIB; resection margin: R1; survival months: 19.9; survival status: 1,Tumor,Hussain_45_31263_(HuGene-1_0-st-v1).CEL,True
+GSM5571203,Hussain_46_31392_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 70.8; survival status: 0,adjacent non-tumor,Hussain_46_31392_(HuGene-1_0-st-v1).CEL,True
+GSM5571204,Hussain_47_31393_(HuGene-1_0-st-v1),tissue: Tumor; grading: G2; Stage: IIB; resection margin: R0; survival months: 70.8; survival status: 0,Tumor,Hussain_47_31393_(HuGene-1_0-st-v1).CEL,True
+GSM5571205,Hussain_48_32018_(HuGene-1_0-st-v1),tissue: Tumor; grading: Gx; Stage: >IIB; resection margin: R1; survival months: 68; survival status: 0,Tumor,Hussain_48_32018_(HuGene-1_0-st-v1).CEL,True
+GSM5571206,Hussain_49_32019_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: Gx; Stage: >IIB; resection margin: R1; survival months: 68; survival status: 0,adjacent non-tumor,Hussain_49_32019_(HuGene-1_0-st-v1).CEL,True
+GSM5571207,Hussain_50_32175_(HuGene-1_0-st-v1),tissue: Tumor; grading: G1; Stage: IIA; resection margin: R0; survival months: 67.7; survival status: 0,Tumor,Hussain_50_32175_(HuGene-1_0-st-v1).CEL,True
+GSM5571208,Hussain_55_34244_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G1; Stage: IB; resection margin: R1; survival months: 49.7; survival status: 1,adjacent non-tumor,Hussain_55_34244_(HuGene-1_0-st-v1).CEL,True
+GSM5571209,Hussain_56_34245_(HuGene-1_0-st-v1),tissue: Tumor; grading: G1; Stage: IB; resection margin: R1; survival months: 49.7; survival status: 1,Tumor,Hussain_56_34245_(HuGene-1_0-st-v1).CEL,True
+GSM5571210,Hussain_57_34434_(HuGene-1_0-st-v1),tissue: adjacent non-tumor; grading: G2; Stage: IV; resection margin: R1; survival months: 3.2; survival status: 1,adjacent non-tumor,Hussain_57_34434_(HuGene-1_0-st-v1).CEL,True
+GSM5571211,Hussain_58_34435_(HuGene-1_0-st-v1),tissue: Tumor; grading: G2; Stage: IV; resection margin: R1; survival months: 3.2; survival status: 1,Tumor,Hussain_58_34435_(HuGene-1_0-st-v1).CEL,True

@@ -1,0 +1,40 @@
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Large datasets
+data/raw/
+data/external/
+
+# Temporary files
+*.log
+.DS_Store
+# Raw and external datasets
+data/raw/
+data/external/
+
+# Large model files
+*.pt
+*.pth
+*.h5
+*.hdf5
+
+# Logs
+*.log
